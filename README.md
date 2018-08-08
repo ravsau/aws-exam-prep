@@ -44,11 +44,14 @@ https://www.youtube.com/watch?v=bgRt3kiNt_Q
 1) AWS Cloudtrail vs Cloudwatch in 15 minutes 
 https://www.youtube.com/watch?v=SRCS820Tr8c
 
-## AWS Command Line Interface 
+## AWS Command Line Interface
 
 1) AWS Command Line Interface(AWS CLI) playlist(~13 videos) by Saurav Sharma:
 https://www.youtube.com/playlist?list=PLQP5dDPLts67DnDIb2IvXd6qPFbLabDCO
 
+## AWS Fundamentals 
+1) AWS Fundamentals videos playlist by Saurav Sharma
+https://www.youtube.com/playlist?list=PLQP5dDPLts66eWDopxxCRjbu6QemVYhSC
 
 ----
 
