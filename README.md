@@ -49,6 +49,11 @@ https://www.youtube.com/watch?v=SRCS820Tr8c
 1) AWS Command Line Interface(AWS CLI) playlist(~13 videos) by Saurav Sharma:
 https://www.youtube.com/playlist?list=PLQP5dDPLts67DnDIb2IvXd6qPFbLabDCO
 
+## Route 53 and DNS
+
+1) AWS re:Invent 2016: DNS Demystified: Amazon Route 53:
+AWS re:Invent 2016: DNS Demystified: Amazon Route 53
+
 ## AWS Fundamentals 
 1) AWS Fundamentals videos playlist by Saurav Sharma
 https://www.youtube.com/playlist?list=PLQP5dDPLts66eWDopxxCRjbu6QemVYhSC
