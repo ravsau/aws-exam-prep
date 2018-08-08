@@ -84,11 +84,11 @@ Reinvent Videos: Free 1 hour videos from AWS experts working on Amazon. This is 
 
 https://www.youtube.com/user/AmazonWebServices/playlists?view=50&sort=dd&shelf_id=27
 
-Read the Frequently asked questions for all the major services. Then read the FAQ’s on services that confuse you the most:
+Read the frequently asked questions for all the major services. Then read the FAQ’s on services that confuse you the most:
 
 https://aws.amazon.com/faqs/
 
-To make Great Looking AWS Diagrams cloudcraft.co
+To make great Looking AWS Diagrams cloudcraft.co
 
 Try to read these whitepapers before the exam ( About 300 Pages in total):
 (aws.amazon.com/whitepapers)
