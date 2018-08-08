@@ -49,6 +49,9 @@ https://www.youtube.com/watch?v=SRCS820Tr8c
 1) AWS Command Line Interface(AWS CLI) playlist(~13 videos) by Saurav Sharma:
 https://www.youtube.com/playlist?list=PLQP5dDPLts67DnDIb2IvXd6qPFbLabDCO
 
+## AWS Fundamentals videos playlist by Saurav Sharma
+https://www.youtube.com/playlist?list=PLQP5dDPLts66eWDopxxCRjbu6QemVYhSC
+
 ----
 
 Other Resources:
