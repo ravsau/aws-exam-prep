@@ -52,7 +52,8 @@ https://www.youtube.com/playlist?list=PLQP5dDPLts67DnDIb2IvXd6qPFbLabDCO
 ## Route 53 and DNS
 
 1) AWS re:Invent 2016: DNS Demystified: Amazon Route 53:
-AWS re:Invent 2016: DNS Demystified: Amazon Route 53
+https://www.youtube.com/watch?v=AAq-DDbFiIE
+
 
 ## AWS Fundamentals 
 1) AWS Fundamentals videos playlist by Saurav Sharma
