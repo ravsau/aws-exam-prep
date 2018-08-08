@@ -104,5 +104,7 @@ https://d0.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.p
 
 
 ## Questions? Open an Issue in this repo
-![image](https://user-images.githubusercontent.com/12741205/43679847-de2da0c2-97fa-11e8-9e15-748531e99baa.png)
+
+![image](https://user-images.githubusercontent.com/22568316/43846995-9be6c56c-9afd-11e8-8338-79a18d8847da.png)
+
 
