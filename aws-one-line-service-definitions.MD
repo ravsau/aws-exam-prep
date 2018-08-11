@@ -85,6 +85,7 @@
 - **AWS Organizations:** Policy-based Management for Multiple AWS Accounts
 - **AWS Shield:** DDoS Protection
 - **AWS WAF:** Filter Malicious Web Traffic
+- **AWS STS:** Provides short-lived AWS credentials (limited-privilege credentials)
 
 ### Aplication integration Services
 
