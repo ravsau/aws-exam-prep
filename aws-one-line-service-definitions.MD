@@ -85,6 +85,7 @@
 - **AWS Organizations:** Policy-based Management for Multiple AWS Accounts
 - **AWS Shield:** DDoS Protection
 - **AWS WAF:** Filter Malicious Web Traffic
+- **AWS STS:** Provides short-lived AWS credentials (limited-privilege credentials)
 
 ### Aplication integration Services
 
@@ -93,9 +94,11 @@
 - **Amazon Simple Notification Service (SNS):** Pub/Sub, Mobile Push and SMS
 - **Amazon MQ:** Managed Message Broker for ActiveMQ
 
+
 ### AWS Serverless Platform
 
 - **Compute:** AWS Lambda
 - **API Proxy** Amazon API Gateway
 - **Storage** S3
 - **Database** Dynamo DB
+
